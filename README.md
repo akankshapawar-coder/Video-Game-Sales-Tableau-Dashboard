@@ -23,7 +23,6 @@ This project explores global video game sales across different regions, platform
 ## 📈 Dashboard Preview & Live Link
 - **Live Tableau Public Dashboard:** [Insert Your Tableau Public Profile / Viz Link Here]
 
-*(Optional: Add a screenshot of your Tableau dashboard here)*
 
 ---
 
